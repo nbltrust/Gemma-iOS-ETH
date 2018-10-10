@@ -1,0 +1,3 @@
+github "Alamofire/Alamofire" "4.7.3"
+github "nbltrust/Gemma-iOS-Common" "8820e302783ab546a412368fa38e646bc64ec9cc"
+github "phpmaple/NBLCommonModule" "93700bb5c37ba2e823b130877a89f3f9cfde8ac8"
